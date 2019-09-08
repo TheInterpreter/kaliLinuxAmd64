@@ -1,2 +1,4 @@
-# kaliLinuxAmd64
-basic settings to make Kali linux usable in my end
+# Making Kali usable in my end: 
+## a guide to basic Kali tweakings (and making it usable in a modern no-ethernet-connection laptop)
+
+
